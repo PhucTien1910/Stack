@@ -1,0 +1,7 @@
+D:\Phuc Tien\CTDL&GT TH\IntStack\IntStack\bin\Debug\IntStack.exe.config
+D:\Phuc Tien\CTDL&GT TH\IntStack\IntStack\bin\Debug\IntStack.exe
+D:\Phuc Tien\CTDL&GT TH\IntStack\IntStack\bin\Debug\IntStack.pdb
+D:\Phuc Tien\CTDL&GT TH\IntStack\IntStack\obj\Debug\IntStack.csproj.AssemblyReference.cache
+D:\Phuc Tien\CTDL&GT TH\IntStack\IntStack\obj\Debug\IntStack.csproj.CoreCompileInputs.cache
+D:\Phuc Tien\CTDL&GT TH\IntStack\IntStack\obj\Debug\IntStack.exe
+D:\Phuc Tien\CTDL&GT TH\IntStack\IntStack\obj\Debug\IntStack.pdb
